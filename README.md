@@ -1,4 +1,8 @@
-[requirements](requirements.txt)
+```text
+# الصق هنا محتوى ملف requirements.txt الفعلي الخاص بك
+# مثال:
+# three.js
+# webgl-renderer
 
 <br>
 
