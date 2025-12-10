@@ -1,6 +1,6 @@
 [requirements](requirements.txt)
 
----
+<br>
 
 ![صورة التطبيق](exemple_app.PNG) 
 
@@ -11,4 +11,3 @@
 ---
 
 ![لقطة شاشة ثالثة](exemple.png)
-اصلح وعدل requirements.txt ليضهر 
