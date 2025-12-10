@@ -2,16 +2,12 @@
 
 <br>
 
-![program](exemple_app.PNG)
+![صورة التطبيق](exemple_app.PNG) 
 
-<br>
+---
 
-[exemple](exemple2.png)
+![لقطة شاشة ثانية](exemple2.png) 
 
-<br>
+---
 
-[exemple](exemple2.png)
-
-<br>
-
-[exemple](exemple.png)
+![لقطة شاشة ثالثة](exemple.png)
